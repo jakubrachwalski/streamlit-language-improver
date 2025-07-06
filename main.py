@@ -55,14 +55,7 @@ st.set_page_config(page_title="Re-write your text")
 st.header("Re-write your text")
 
 
-#Intro: instructions
-col1, col2 = st.columns(2)
-
-with col1:
-    st.markdown("Re-write your text in different styles.")
-
-with col2:
-    st.write("Contact with [AI Accelera](https://aiaccelera.com) to build your AI Projects")
+st.markdown("Re-write your text in different styles.")
 
 
 #Input OpenAI API Key
