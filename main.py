@@ -32,7 +32,7 @@ template = """
     TONE: {tone}
     DIALECT: {dialect}
 
-    One more thing. At the end of the response, add it one more time, but translated to Polish.
+    One more thing. At the end of the response, add it one more time, but translated to Polish in a ver, very,very formal style as if used by a president.
 
     YOUR {dialect} RESPONSE:
 """
