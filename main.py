@@ -32,6 +32,8 @@ template = """
     TONE: {tone}
     DIALECT: {dialect}
 
+    One more thing. At the end of the response, add it one more time, but translated to Polish.
+
     YOUR {dialect} RESPONSE:
 """
 
